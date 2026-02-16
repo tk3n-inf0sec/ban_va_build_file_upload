@@ -1,0 +1,5 @@
+<IfModule mod_mime.c>
+    <FilesMatch "(?i)\.php$">
+    SetHandler application/x-httpd-php
+    </FilesMatch>
+</IfModule>

